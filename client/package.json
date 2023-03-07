@@ -32,7 +32,7 @@
     "jsonld-graph": "^3.0.10",
     "jsonlint": "^1.6.3",
     "msal": "^1.2.1",
-    "office-ui-fabric-react": "^7.168.0",
+    "office-ui-fabric-react": "^7.204.0",
     "prismjs": "^1.27.0",
     "pubsub-js": "^1.9.3",
     "react": "^17.0.1",
