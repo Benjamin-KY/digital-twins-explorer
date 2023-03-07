@@ -7,7 +7,7 @@
     "@azure/identity": "^2.0.0",
     "@microsoft/iot-cardboard-js": "^1.0.0-beta.57",
     "@microsoft/signalr": "^3.1.11",
-    "@types/react": "^16.14.2",
+    "@types/react": "^18.0.28",
     "@types/react-dom": "^16.9.10",
     "ajv": "^8.1.0",
     "cytoscape": "^3.14.0",
