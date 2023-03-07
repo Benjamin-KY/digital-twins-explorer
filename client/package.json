@@ -44,7 +44,7 @@
     "react-i18next": "^11.8.13",
     "react-router-dom": "^5.1.2",
     "react-scripts": "^5.0.0",
-    "sass": "^1.32.4",
+    "sass": "^1.58.1",
     "system": "^2.0.1",
     "to-json-schema": "^0.2.5",
     "typescript": "^3.7.5",
